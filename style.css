@@ -1,6 +1,6 @@
 body {
     text-align: center;
-    background-color: darksalmon;
+    background-color: aquamarine;
 }
 img {
     width: 70%;
@@ -28,7 +28,7 @@ img:nth-child(2) {
 }
 #pho {
     font-size: 100px;
-    background-color: aqua;
+    background-color: darkgoldenrod;
     border-radius: 10px;
     background-size: contain;
 }
